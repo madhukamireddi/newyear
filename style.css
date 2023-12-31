@@ -1,0 +1,21 @@
+body{
+  text-align: center;
+  background-color:antiquewhite;
+}
+p{
+  font-family:Roboto,Arial;
+  font-size:30px;
+}
+.a{
+  color:red;
+}
+.b{
+  color:green;
+}
+.c{
+  color:blue;
+}
+.d{
+ margin-left:140px;
+ color:blueviolet
+}
